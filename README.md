@@ -2,7 +2,7 @@
 
 Here we will provide a guide for the processing of raw LCMS output files from metabolomics and lipidomics runs, how to undertake curation and annotation, and approaches for their analysis downstream.
 
-View the wiki [here](https://github.com/mucosal-immunology-lab/microbiome-analysis).
+View the wiki [here](https://github.com/mucosal-immunology-lab/lcms-analysis/wiki).
 
 ## Rights
 
